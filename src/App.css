@@ -1,0 +1,28 @@
+.nav{
+    background-color: #F55A5A;
+    height: 50px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    align-content: center;
+    display: flex;
+    color: white;
+    margin: auto;
+
+}
+.nav-text{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 20px;
+    text-align: center;
+}
+.card-image{
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
